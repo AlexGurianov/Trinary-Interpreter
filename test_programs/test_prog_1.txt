@@ -1,0 +1,13 @@
+vala := 0-;
+WHILE vala <= 0+ DO
+  OUT(0+-+ + 0++);
+  OUT(~vala);
+  valb := 0-;
+  WHILE valb <= 0+ DO
+    OUT (0+-+ * 0++);
+    OUT(vala & valb);
+    OUT(vala | valb);
+    valb := valb+0+
+  REPEAT;
+  vala := vala + 0+
+REPEAT

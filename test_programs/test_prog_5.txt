@@ -1,0 +1,8 @@
+a := 0++;
+b := 0+-;
+c := 0+0;
+perimeter := 0;
+IF (a+b>c) & (a + c > b) & (b + c > a) THEN
+  perimeter := a + b + c
+END;
+OUT(perimeter) 
